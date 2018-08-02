@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="discription" content="it is used to explain more about head element">
+<meta name="author" content="the name of the person who wrote the page">
+<meta http-equiv="refresh" content="maybe the page have to be refreshed every 5 m by itself>  
+<title>represents a page title</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+
+<h1></h1>
+<!-- six different of html headings are <h1>,<h2>,<h3>,<h4>,<h5>or<h6> with closing tags -->
+
+<p>represent a paragraph</p>
+
+<br> the line break element
+<hr>  thematic break
+<div>defines a block or section</div>
+
+
+
+<!-- HTML lists -->
+<ul>
+<li></li>
+</ul>
+<!--there is onther kinds of HTML lists called "ordered HTML list" whitch starts with <ol> tag.tghe type attribute of <ol>tag 
+type=("1","A",or "I")and discription list <dt></dt>  -->
+
+
+<a herf="" target="_blank"></a>
+<img src="" title="">
+<input type="" placeholder="short hint">
+<textarea>multi-line text</textarea>
+<!-- is generic inline text--><span>the text</span>
+
+<nav></nav>
+<footer></footer>
+
+
+</body>
+</html>
