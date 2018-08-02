@@ -14,7 +14,7 @@
 
 <h1></h1>
 <!-- six different of html headings are <h1>,<h2>,<h3>,<h4>,<h5>or<h6> with closing tags -->
-
+<q>short quotation</q>
 <p>represent a paragraph</p>
 
 <br> the line break element
